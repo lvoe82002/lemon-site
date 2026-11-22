@@ -217,7 +217,7 @@ useI18nHead()
       <div>
         <RouterLink :to="`/${currentLang}/privacy`">{{ t('home.privacyLink') }}</RouterLink>
         <RouterLink :to="`/${currentLang}/tos`">{{ t('home.termsLink') }}</RouterLink>
-        <a href="https://github.com/Redlnn/lemon-new-tab-page" target="_blank" rel="noreferrer">
+        <a href="https://github.com/lvoe82002/lemon-site" target="_blank" rel="noreferrer">
           GitHub
         </a>
       </div>
