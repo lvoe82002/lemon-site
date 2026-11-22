@@ -214,7 +214,6 @@ useI18nHead()
 
     <footer class="site-footer">
       <span>{{ t('home.footerNote') }}</span>
-      <span style="opacity:.6;display:block;margin-top:.35em;font-size:.85em">本站为个人部署，非官方站点，项目与素材版权归 Redlnn 所有。</span>
       <div>
         <RouterLink :to="`/${currentLang}/privacy`">{{ t('home.privacyLink') }}</RouterLink>
         <RouterLink :to="`/${currentLang}/tos`">{{ t('home.termsLink') }}</RouterLink>
