@@ -1,0 +1,90 @@
+{
+  "title": {
+    "index": "Lemon New Tab - A simple, local-first browser new tab page",
+    "tos": "Terms of Service - Lemon New Tab",
+    "privacy": "Privacy Policy - Lemon New Tab",
+    "notfound": "Page Not Found - Lemon New Tab"
+  },
+  "seo": {
+    "tosDescription": "Read the Lemon New Tab terms of service covering extension use, distribution channels, open-source licensing, online features, and liability boundaries.",
+    "privacyDescription": "Read the Lemon New Tab privacy policy covering local data storage, browser permissions, online features, third-party services, and user choices."
+  },
+  "nav": {
+    "primary": "Primary navigation",
+    "features": "Features",
+    "switchLang": "Switch language",
+    "toggleTheme": "Toggle color theme"
+  },
+  "home": {
+    "title": "Lemon New Tab",
+    "description": "Lemon New Tab is a local-first open-source browser extension with search, quick links, bookmarks, wallpapers, dynamic themes, clock, quotes, import/export, and browser sync.",
+    "lead": "A new tab page arranged for daily use.",
+    "intro": "This is a browser extension for keeping search, favorite sites, bookmarks, wallpapers, and the clock on the page you open most often. Most settings stay in the browser, and there is no separate account to create.",
+    "primaryCta": "Install",
+    "secondaryCta": "Source code",
+    "previewAlt": "Lemon New Tab homepage preview",
+    "support": "Chrome 116+ · Edge 116+ · Firefox 128+",
+    "featuresTitle": "✨Features",
+    "featuresIntro": "Skip flashy tools and focus on the essentials — doing the basics well is what matters.",
+    "featureRows": [
+      {
+        "title": "Search",
+        "text": "Use Bing, Google, Baidu, DuckDuckGo, Yandex, custom engines, suggestions, and local search history."
+      },
+      {
+        "title": "Quick Links",
+        "text": "Show most-visited sites, or add, pin, group, page, drag, and arrange your own links. Dock and Launchpad layouts are available."
+      },
+      {
+        "title": "Bookmarks",
+        "text": "Search, open, edit, delete, and rearrange browser bookmarks directly from the new tab page."
+      },
+      {
+        "title": "Wallpapers and Themes",
+        "text": "Use Bing daily images, online image APIs, local images, video wallpapers, and dynamic color extracted from wallpapers."
+      },
+      {
+        "title": "Time and Text",
+        "text": "Display clock, date, seconds, lunar calendar, daily poems, quotes, or your own custom lines."
+      },
+      {
+        "title": "Backup and Sync",
+        "text": "Import/export settings, or use browser-account sync. There is no separate account system."
+      }
+    ],
+    "screenshotsTitle": "📸Screenshots",
+    "previousScreenshot": "Previous screenshot",
+    "nextScreenshot": "Next screenshot",
+    "screenshots": [
+      {
+        "label": "Standard homepage",
+        "src": "/preview-home.webp"
+      },
+      {
+        "label": "Dock and large clock",
+        "src": "/preview-dock.webp"
+      },
+      {
+        "label": "Search suggestions",
+        "src": "/preview-search.webp"
+      },
+      {
+        "label": "Settings panel",
+        "src": "/preview-settings.webp"
+      }
+    ],
+    "privacyTitle": "About data",
+    "privacyText": "Settings, quick links, wallpapers, and similar data mainly stay in your browser. There is no developer-operated backend for receiving personal data; search suggestions, wallpaper APIs, and browser sync follow your settings and browser permissions.",
+    "privacyLink": "Read Privacy Policy",
+    "termsLink": "Terms of Service",
+    "installTitle": "⬇️Install",
+    "installText": "You can also download a build from GitHub Releases.",
+    "footerNote": "Personal open-source project, licensed under AGPL-3.0."
+  },
+  "tos": "Terms",
+  "privacy": "Privacy",
+  "notFound": {
+    "title": "Page not found",
+    "back": "Go back"
+  }
+}

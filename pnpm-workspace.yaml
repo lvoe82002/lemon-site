@@ -1,0 +1,12 @@
+allowBuilds:
+  esbuild: true
+
+overrides:
+  markdown-it: 'npm:markdown-exit@latest' # 替换为高性能实现
+  markdown-exit: 'latest' # 替换为高性能实现
+
+peerDependencyRules:
+  ignoreMissing:
+    - eslint
+  allowAny:
+    - eslint
