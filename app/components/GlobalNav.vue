@@ -45,7 +45,7 @@ async function switchLang() {
     <nav class="site-nav__links" :aria-label="t('nav.primary')">
       <RouterLink :to="`/${currentLang}/privacy`">{{ t('privacy') }}</RouterLink>
       <RouterLink :to="`/${currentLang}/tos`">{{ t('tos') }}</RouterLink>
-      <a href="https://github.com/lvoe82002/lemon-site" target="_blank" rel="noreferrer">
+      <a href="https://github.com/lvoe82002" target="_blank" rel="noreferrer">
         GitHub
       </a>
       <button
