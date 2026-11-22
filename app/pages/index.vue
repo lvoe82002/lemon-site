@@ -102,7 +102,7 @@ useI18nHead()
           <a class="button button--primary" href="#install">{{ t('home.primaryCta') }}</a>
           <a
             class="button button--ghost"
-            href="https://github.com/Redlnn/lemon-new-tab-page"
+            href="https://github.com/lvoe82002/lemon-site"
             target="_blank"
             rel="noreferrer"
           >
