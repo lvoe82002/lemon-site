@@ -1,14 +1,14 @@
 # Lemon New Tab Privacy Policy
 
-> Last updated: 2026-10-02
+> Last updated: 2026-11-23
 
 This Privacy Policy applies to the browser extension **Lemon New Tab** and its related public source code repository.
 
 This extension is designed to run in a **local-first** manner. Some online features are **enabled by default or available by default**, including search suggestions and Jinrishici content. Other online features usually require your own action or configuration, such as online wallpapers or some third-party content sources. Regardless of whether such features are enabled, the extension does not proactively send your data to the developer's own servers. Based on the current source code, the developer **does not operate a dedicated backend that collects extension users' personal data**.
 
-Contact email: <lemon@redlnn.top>
+Contact email: <2078583352@qq.com>
 
-## 1. Who We Are
+## 1. Who I Am
 
 The developer of this extension is the maintainer of this project repository. For the extension's own functionality, data processing is intentionally kept as much as possible within your browser and device.
 
@@ -30,7 +30,7 @@ This Policy covers five categories of processing:
 
 ### 3.1 Data stored locally on your device
 
-The extension store the following data locally on your device:
+The extension stores the following data locally on your device:
 
 - extension settings and UI preferences, such as theme, layout, search engine configuration, and background settings;
 - Quick Links, bookmark display settings, and local state related to frequently visited sites;
@@ -59,7 +59,7 @@ These permissions are used to provide local functionality. For example, the exte
 
 Titles, URLs, visit times, and suggestion results accessed by browser history suggestions stay in the current page's memory. They are not written to extension search history, backups, or sync, and are not uploaded to the developer, search suggestion services, or WebDAV servers. Only preferences such as provider selection and suggestion count may be synced; browser permission must be granted separately on each device.
 
-## 4. What We Do Not Do
+## 4. What I Do Not Do
 
 Except as otherwise described in this Policy, the extension developer does **not** proactively collect, sell, rent, or upload the following information to developer-operated servers:
 
@@ -253,7 +253,7 @@ Depending on applicable law, including the GDPR, China's PIPL, and the CCPA/CPRA
 
 For processing actually within the developer's control, you may exercise your rights by:
 
-1. sending a request to **lemon@redlnn.top**;
+1. sending a request to **2078583352@qq.com**;
 2. using the subject line **Privacy Request**;
 3. stating the type of request involved, such as access, correction, deletion, withdrawal of consent, restriction, objection, or complaint, and identifying the relevant browser, extension version, and feature module if known;
 4. providing only the minimum information needed to locate the issue, and not sending unnecessary sensitive information;
@@ -268,7 +268,7 @@ For this extension specifically:
 - because the developer generally **does not hold a server-side copy of your extension content**, practical control over most data remains with you, your browser vendor, or the relevant third-party service;
 - you can exercise much of your control by uninstalling the extension, clearing browser extension storage, disabling online features, deleting local wallpapers and search history, or using the extension's historical cloud-data cleanup control;
 - for WebDAV data, you can change sync scope, export a local backup, keep remote data and disconnect, or delete the extension-specific remote directory after typed confirmation; contact the provider directly for its separate backups or logs;
-- if you have questions about matters within the developer's controllable scope, contact <lemon@redlnn.top>.
+- if you have questions about matters within the developer's controllable scope, contact <2078583352@qq.com>.
 
 ## 13. Children
 
