@@ -1,12 +1,12 @@
 # Lemon New Tab Terms of Service
 
-> Last updated: 2026-10-02
+> Last updated: 2026-11-23
 
 These Terms of Service ("**Terms**") apply to the browser extension **Lemon New Tab**, its distribution channels, and its related public source code repository.
 
 By installing, accessing, using, copying, or distributing the extension, you acknowledge that you have read, understood, and agreed to be bound by these Terms and the related Privacy Policy. If you do not agree, do not install or use the extension.
 
-Contact email: <lemon@redlnn.top>
+Contact email: <2078583352@qq.com>
 
 ## 1. Service Description
 
@@ -131,7 +131,7 @@ If the developer reasonably believes that you have violated these Terms, applica
 
 These Terms will be governed by the laws applicable through the developer's jurisdiction and any mandatory conflict-of-law rules, provided that mandatory consumer protection, privacy, or other laws in your own jurisdiction will prevail where they apply and require a higher standard.
 
-In the event of a dispute, the parties should first attempt to resolve it in good faith. You may first contact the developer at <lemon@redlnn.top>.
+In the event of a dispute, the parties should first attempt to resolve it in good faith. You may first contact the developer at <2078583352@qq.com>.
 
 ## 15. Severability
 
